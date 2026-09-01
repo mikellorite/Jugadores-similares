@@ -1,0 +1,19 @@
+[project]
+name = "jugadores-similares"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.141.1",
+    "httpx>=0.28.1",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "plotly>=7.0.0",
+    "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.0",
+    "streamlit>=1.62.0",
+    "uvicorn>=0.52.4",
+]
